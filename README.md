@@ -1,16 +1,49 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=200&section=header&text=Nirav%20Sayanja&fontSize=50&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20React%20%7C%20TypeScript%20%7C%20Three.js&descAlignY=55&fontColor=ffffff">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=200&section=header&text=Nirav%20Sayanja&fontSize=50&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20React%20%7C%20TypeScript%20%7C%20Three.js&descAlignY=55&fontColor=1a1a2e">
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=220&section=header&text=Nirav%20Sayanja&fontSize=50&fontAlignY=32&desc=ML%20Learner%20%E2%80%A2%20Web%20Developer%20%E2%80%A2%20Vibe%20Coder&descAlignY=52&fontColor=ffffff">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=220&section=header&text=Nirav%20Sayanja&fontSize=50&fontAlignY=32&desc=ML%20Learner%20%E2%80%A2%20Web%20Developer%20%E2%80%A2%20Vibe%20Coder&descAlignY=52&fontColor=f8f9fa">
 </picture>
 
-I build immersive, high-performance web experiences — interactive 3D interfaces, cinematic animations, and full-stack applications with modern React and TypeScript. Focused on combining design precision with engineering depth.
+```yaml
+---
+identity:        ML Learner ∩ Web Developer
+approach:        learn by building, ship fast, iterate
+location:        NIT Rourkela, India
+currently:       ML fundamentals · building full-stack web apps · drone tech
+vibe:            code what excites you, then code it better
+goal:            bridge the gap between ML models and production web apps
+---
+```
+
+I'm a self-driven developer exploring the intersection of **machine learning** and **modern web development**. Right now I'm deep in ML fundamentals — linear regression to neural nets — while building full-stack web experiences with React, TypeScript, and Three.js. I learn by shipping real projects, not by tutorials.
 
 ---
 
-## Featured Projects
+## 🚀 Featured Project
+
+### ✈️ UDAAN Aeromodelling Club — NIT Rourkela
+
+Official website for NIT Rourkela's premier aeromodelling club. A full-featured platform handling team induction, event registration, and member management — all with real-time database integration and admin controls.
+
+```
+├── 🎨 3D interactive hero with Three.js
+├── 📝 Event registration with Supabase backend
+├── 🔐 Member authentication & role management
+├── ⚙️ Admin toggle panel (inductions, registrations)
+├── 📊 Excel export for applicant data
+├── 📱 Fully responsive, mobile-first
+└── 🚀 Deployed via Vercel
+```
+
+**Stack:** React · TypeScript · Three.js · Supabase · Framer Motion · Vite · Firebase
+
+[View Repository →](https://github.com/N-S8990/Udaan-Website)
+
+---
+
+## 🛠️ Other Projects
 
 ### 🚁 EUNORA — Agricultural Drone Solutions Platform
-Precision aerial farming landing page featuring an interactive WebGL 3D drone viewer, scroll-triggered cinematic animations, and a clean Apple-inspired design language.
+Precision aerial farming landing page with interactive WebGL 3D drone viewer, cinematic scroll animations, and Apple-inspired design language.
 
 **Stack:** React · TypeScript · Three.js · React Three Fiber · Framer Motion · Tailwind CSS · Vite
 
@@ -18,20 +51,50 @@ Precision aerial farming landing page featuring an interactive WebGL 3D drone vi
 
 ---
 
-## Impact
+## 📈 Impact
 
-| Metric | Value | Project |
-|---|---|---|
-| 3D model render performance | 60 FPS | EUNORA, WebGL drone viewer |
-| Lighthouse Performance | 95+ | EUNORA, optimized asset pipeline |
-| First Contentful Paint | < 1.2s | EUNORA, Vite + code splitting |
-| Bundle size | < 200 KB | EUNORA, tree-shaken Three.js |
-| Animation frame rate | 60 FPS | EUNORA, Framer Motion |
-| Responsive breakpoints | 5 | EUNORA, mobile-first fluid layout |
+| Area | Metric | Value | Project |
+|---|---|---|---|
+| **Web Perf** | Lighthouse Performance | 95+ | EUNORA |
+| **Web Perf** | First Contentful Paint | < 1.2s | EUNORA |
+| **3D** | Model render framerate | 60 FPS | UDAAN / EUNORA |
+| **3D** | WebGL draw calls | < 50 | UDAAN hero scene |
+| **Backend** | DB query latency (Supabase) | < 100ms | UDAAN |
+| **UX** | Responsive breakpoints | 5 | UDAAN / EUNORA |
+| **ML** | Currently training | Linear Regression → Neural Nets | — |
+| **ML** | Frameworks | NumPy · Pandas · scikit-learn · PyTorch | — |
 
 ---
 
-## Tech Stack
+## 🧠 ML Journey
+
+```
+┌─────────────────────────────────────────────────────────┐
+│  Linear Regression  ──►  Logistic Regression             │
+│         ▼                                                │
+│  Decision Trees     ──►  Random Forest                   │
+│         ▼                                                │
+│  Neural Networks    ──►  CNNs / RNNs                     │
+│         ▼                                                │
+│  Transformers       ──►  Production Deployment           │
+└─────────────────────────────────────────────────────────┘
+```
+
+**Currently:** Fundamentals — statistics, linear algebra, supervised learning
+**Next up:** Deep learning, computer vision, model deployment with FastAPI
+**Endgame:** Build and ship ML-powered web apps end to end
+
+---
+
+## 🧰 Tech Stack
+
+### ML / Data
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -45,30 +108,32 @@ Precision aerial farming landing page featuring an interactive WebGL 3D drone vi
 ![React Three Fiber](https://img.shields.io/badge/R3F-000000?style=for-the-badge&logo=three.js&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 
-### Backend & Tools
+### Backend & Infra
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
 ---
 
-## GitHub Activity
+## 📊 GitHub Analytics
 
 <p align="center">
   <a href="https://github.com/N-S8990">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=N-S8990&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=N-S8990&layout=compact&langs_count=8&theme=radical&hide_border=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=N-S8990&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=N-S8990&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d1117" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=N-S8990&theme=radical&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=N-S8990&theme=radical&hide_border=true&background=0d1117" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=N-S8990&theme=react-dark&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=N-S8990&theme=react-dark&hide_border=true&area=true&bg_color=0d1117" />
 </p>
 
 <picture>
@@ -79,7 +144,19 @@ Precision aerial farming landing page featuring an interactive WebGL 3D drone vi
 
 ---
 
-## Let's Connect
+## 🎯 Current Focus
+
+```
+□  Master ML fundamentals (stats, linear algebra, supervised learning)
+□  Build an ML-powered web app (model + API + frontend)
+□  Contribute to open-source
+□  Ship 2+ portfolio projects this year
+□  Land an ML / full-stack internship
+```
+
+---
+
+## 🤝 Let's Connect
 
 <p align="center">
   <a href="mailto:niravsayanja@gmail.com">
@@ -94,7 +171,7 @@ Precision aerial farming landing page featuring an interactive WebGL 3D drone vi
 </p>
 
 <p align="center">
-  Open to front-end / full-stack roles — reach out anytime.
+  <i>Learning in public. Building in public. Growing in public.</i>
 </p>
 
 ---
@@ -104,6 +181,6 @@ Precision aerial farming landing page featuring an interactive WebGL 3D drone vi
 </p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:92FE9D,100:00C9FF&height=120&section=footer">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:92FE9D,100:00C9FF&height=120&section=footer">
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:667eea&height=120&section=footer">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:667eea&height=120&section=footer">
 </picture>
