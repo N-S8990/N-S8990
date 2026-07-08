@@ -105,16 +105,16 @@ The official website for NIT Rourkela's premier aeromodelling club. A production
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=N-S8990&show_icons=true&theme=radical&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=N-S8990&layout=compact&langs_count=8&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=N-S8990&show_icons=true&theme=midnight-purple&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=N-S8990&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=N-S8990&theme=radical&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=N-S8990&theme=midnight-purple&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=N-S8990&theme=react-dark&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=N-S8990&theme=midnight-purple&hide_border=true&area=true&title=Nirav's%20Contribution%20Graph" />
 </p>
 
 <p align="center">
