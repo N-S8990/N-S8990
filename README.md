@@ -104,14 +104,22 @@ The official website for NIT Rourkela's premier aeromodelling club. A production
 
 ## 📊 GitHub Activity
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=N-S8990&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=N-S8990&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d1117)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=N-S8990&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=N-S8990&layout=compact&langs_count=8&theme=radical&hide_border=true" />
+</p>
 
-![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=N-S8990&theme=radical&hide_border=true&background=0d1117)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=N-S8990&theme=radical&hide_border=true" />
+</p>
 
-![GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=N-S8990&theme=react-dark&hide_border=true&area=true&bg_color=0d1117)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=N-S8990&theme=react-dark&hide_border=true&area=true" />
+</p>
 
-![snake](https://raw.githubusercontent.com/N-S8990/N-S8990/output/github-contribution-grid-snake-dark.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/N-S8990/N-S8990/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
 ---
 
