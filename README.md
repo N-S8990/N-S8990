@@ -1,23 +1,35 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=220&section=header&text=Nirav%20Sayanja&fontSize=50&fontAlignY=32&desc=ML%20Learner%20%E2%80%A2%20Web%20Developer%20%E2%80%A2%20Vibe%20Coder&descAlignY=52&fontColor=ffffff">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=220&section=header&text=Nirav%20Sayanja&fontSize=50&fontAlignY=32&desc=ML%20Learner%20%E2%80%A2%20Web%20Developer%20%E2%80%A2%20Vibe%20Coder&descAlignY=52&fontColor=f8f9fa">
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:6C47F5&height=220&section=header&text=Nirav%20Sayanja&fontSize=50&fontAlignY=32&desc=ML%20Learner%20%E2%80%A2%20Web%20Developer%20%E2%80%A2%20Vibe%20Coder&descAlignY=52&fontColor=ffffff">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f8f9fa,100:6C47F5&height=220&section=header&text=Nirav%20Sayanja&fontSize=50&fontAlignY=32&desc=ML%20Learner%20%E2%80%A2%20Web%20Developer%20%E2%80%A2%20Vibe%20Coder&descAlignY=52&fontColor=1a1a2e">
 </picture>
 
 ```yaml
 ---
-identity:        ML Learner ∩ Web Developer
-approach:        learn by building, ship fast, iterate
-location:        NIT Rourkela, India
-currently:       ML fundamentals · building full-stack apps · drone tech
-vibe:            code what excites you, then code it better
-goal:            bridge the gap between ML models and production web apps
-tools:           opencode · hermes agent · cursor · claude
+name:              Nirav Sayanja
+located_in:        NIT Rourkela, India
+current_mission:   ML fundamentals → production web apps
+building:          full-stack experiences with React, Three.js, Supabase
+tools:             opencode · hermes-agent · cursor · claude
+approach:          learn by shipping, iterate fast, vibe code
+open_for:          ML / full-stack internship opportunities
 ---
 ```
 
-I'm a self-driven developer exploring the intersection of **machine learning** and **modern web development**. Right now I'm deep in ML fundamentals — linear regression to neural nets — while building full-stack web experiences with React, TypeScript, and Three.js. I learn by shipping real projects, not by tutorials.
+I'm a developer who learns by building. Right now that means splitting my energy between **machine learning fundamentals** (linear regression → neural nets) and **modern full-stack web development** (React, TypeScript, Three.js, Supabase). My goal is to bridge the gap — ship ML-powered web apps end to end, from trained model to deployed product.
 
-All my code is crafted with AI-assisted development using [**opencode**](https://github.com/anomalyco/opencode) and [**hermes agent**](https://github.com/NousResearch/hermes-agent) — I vibe code at lightspeed without sacrificing quality.
+---
+
+## ⚡ AI-Assisted Development
+
+I build with the most advanced AI coding tools available:
+
+[![OpenCode](https://img.shields.io/badge/OpenCode-000?style=for-the-badge&logo=opencode&logoColor=white&labelColor=000)](https://github.com/anomalyco/opencode)
+‣ 183k ★ — The open source AI coding agent. I use its TUI + CLI for implementation, refactoring, and code review. Provider-agnostic, runs any model.
+
+[![Hermes Agent](https://img.shields.io/badge/Hermes_Agent-6C47F5?style=for-the-badge&logo=hermes&logoColor=white&labelColor=6C47F5)](https://github.com/NousResearch/hermes-agent)
+‣ 210k ★ — Self-improving AI agent by Nous Research. I use it for planning, research, orchestration, and autonomous task execution across my workflow.
+
+> OpenCode handles the code. Hermes handles the strategy. I handle the vision.
 
 ---
 
@@ -25,73 +37,56 @@ All my code is crafted with AI-assisted development using [**opencode**](https:/
 
 ### ✈️ UDAAN Aeromodelling Club — NIT Rourkela
 
-Official website for NIT Rourkela's premier aeromodelling club. A full-featured platform handling team induction, event registration, and member management — all with real-time database integration and admin controls.
+The official website for NIT Rourkela's premier aeromodelling club. A production-grade platform for team induction, event registration, and member management.
 
 ```
-├── 🎨 3D interactive hero with Three.js
-├── 📝 Event registration with Supabase backend
-├── 🔐 Member authentication & role management
-├── ⚙️ Admin toggle panel (inductions, registrations)
-├── 📊 Excel export for applicant data
-├── 📱 Fully responsive, mobile-first
-└── 🚀 Deployed via Vercel
+├── 🎨 3D interactive hero powered by Three.js
+├── 📝 Event registration with real-time Supabase backend
+├── 🔐 Member authentication & role-based access control
+├── ⚙️ Admin toggle panel for induction & registration windows
+├── 📊 Excel/CSV export for applicant data management
+├── 📱 Fully responsive across all device sizes
+└── 🚀 Deployed on Vercel with CI/CD
 ```
 
 **Stack:** React · TypeScript · Three.js · Supabase · Framer Motion · Vite · Firebase
 
-[View Repository →](https://github.com/N-S8990/Udaan-Website)
+<a href="https://github.com/N-S8990/Udaan-Website">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=N-S8990&repo=Udaan-Website&theme=radical&hide_border=true&bg_color=0d1117">
+</a>
 
 ---
 
-## 🛠️ Other Projects
+## 📈 Impact & Metrics
 
-### 🚁 EUNORA — Agricultural Drone Solutions Platform
-Precision aerial farming landing page with interactive WebGL 3D drone viewer, cinematic scroll animations, and Apple-inspired design language.
-
-**Stack:** React · TypeScript · Three.js · React Three Fiber · Framer Motion · Tailwind CSS · Vite
-
-[View Repository →](https://github.com/N-S8990/eudora_web)
-
----
-
-## 📈 Impact
-
-| Area | Metric | Value | Project |
+| Area | Metric | Value | Details |
 |---|---|---|---|
-| **Web Perf** | Lighthouse Performance | 95+ | EUNORA |
-| **Web Perf** | First Contentful Paint | < 1.2s | EUNORA |
-| **3D** | Model render framerate | 60 FPS | UDAAN / EUNORA |
-| **3D** | WebGL draw calls | < 50 | UDAAN hero scene |
-| **Backend** | DB query latency (Supabase) | < 100ms | UDAAN |
-| **UX** | Responsive breakpoints | 5 | UDAAN / EUNORA |
-| **ML** | Currently training | Linear Regression → Neural Nets | — |
-| **ML** | Frameworks | NumPy · Pandas · scikit-learn · PyTorch | — |
+| **3D** | Render performance | 60 FPS | Three.js hero scene optimized draw calls |
+| **3D** | WebGL draw calls | < 50 | UDAAN interactive scene |
+| **Backend** | Query latency | < 100ms | Supabase real-time queries |
+| **UX** | Breakpoints | 5 | Mobile-first responsive design |
+| **Auth** | Role management | Admin / Member | Supabase RLS policies |
+| **ML** | Training progress | Linear → Neural Nets | NumPy, Pandas, PyTorch |
+| **ML** | Next milestone | Deep Learning | CNNs, computer vision |
 
 ---
 
-## 🧠 ML Journey
+## 🧠 ML Learning Roadmap
 
 ```
-┌─────────────────────────────────────────────────────────┐
-│  Linear Regression  ──►  Logistic Regression             │
-│         ▼                                                │
-│  Decision Trees     ──►  Random Forest                   │
-│         ▼                                                │
-│  Neural Networks    ──►  CNNs / RNNs                     │
-│         ▼                                                │
-│  Transformers       ──►  Production Deployment           │
-└─────────────────────────────────────────────────────────┘
+▓▓▓▓▓▓░░░░░░░░░░░░  Fundamentals    [████████░░░░]  40% — stats, linear algebra, supervised
+▓▓▓▓░░░░░░░░░░░░░░  Deep Learning   [████░░░░░░░░]  20% — CNNs, RNNs, PyTorch
+▓▓░░░░░░░░░░░░░░░░  Advanced        [██░░░░░░░░░░]  10% — Transformers, GANs, deployment
 ```
 
-**Currently:** Fundamentals — statistics, linear algebra, supervised learning
-**Next up:** Deep learning, computer vision, model deployment with FastAPI
-**Endgame:** Build and ship ML-powered web apps end to end
+**Currently:** Statistics, linear algebra, supervised learning algorithms
+**Working toward:** Building and deploying a full ML-powered web application
 
 ---
 
 ## 🧰 Tech Stack
 
-### ML / Data
+### Machine Learning
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -111,7 +106,7 @@ Precision aerial farming landing page with interactive WebGL 3D drone viewer, ci
 ![React Three Fiber](https://img.shields.io/badge/R3F-000000?style=for-the-badge&logo=three.js&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 
-### Backend & Infra
+### Backend & DevOps
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
@@ -120,17 +115,15 @@ Precision aerial farming landing page with interactive WebGL 3D drone viewer, ci
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
-### AI-Assisted Development
-[![OpenCode](https://img.shields.io/badge/OpenCode-000000?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNMTIgMkMyIDIgMiAyIDIgMTJzMCAxMCAxMCAxMCAxMCAwIDEwLTEwUzIyIDIgMTIgMnptMCAxOGMtNC40MSAwLTgtMy41OS04IDhzMy41OSA4IDggOCA4LTMuNTkgOC04LTMuNTktOC04LTh6IiBmaWxsPSJ3aGl0ZSIvPjwvc3ZnPg==&logoColor=white&labelColor=000)](https://github.com/anomalyco/opencode)
-[![Hermes Agent](https://img.shields.io/badge/Hermes_Agent-6C47F5?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNMTIgMkwyIDd2MTBsMTAgNSAxMC01VjdMMTIgMnptMCAzbDcuNSAzLjc1TDEyIDEyLjUgNC41IDguNzUgMTIgNXoiIGZpbGw9IndoaXRlIi8+PC9zdmc+&logoColor=white&labelColor=6C47F5)](https://github.com/NousResearch/hermes-agent)
-[![Claude](https://img.shields.io/badge/Claude-FF6B35?style=for-the-badge&logo=anthropic&logoColor=white&labelColor=FF6B35)](https://anthropic.com/claude)
-[![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white&labelColor=000)](https://cursor.sh)
-
-> *Building at the speed of AI — opencode orchestrates, hermes plans, I ship.*
+### AI Coding Tools
+[![OpenCode](https://img.shields.io/badge/OpenCode-000000?style=for-the-badge&logo=opencode&logoColor=white)](https://github.com/anomalyco/opencode)
+[![Hermes](https://img.shields.io/badge/Hermes_Agent-6C47F5?style=for-the-badge&logo=hermes&logoColor=white)](https://github.com/NousResearch/hermes-agent)
+[![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)](https://cursor.sh)
+[![Claude](https://img.shields.io/badge/Claude-FF6B35?style=for-the-badge&logo=anthropic&logoColor=white)](https://anthropic.com/claude)
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Activity
 
 <p align="center">
   <a href="https://github.com/N-S8990">
@@ -150,7 +143,7 @@ Precision aerial farming landing page with interactive WebGL 3D drone viewer, ci
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/N-S8990/N-S8990/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/N-S8990/N-S8990/output/github-contribution-grid-snake.svg">
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/N-S8990/N-S8990/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/N-S8990/N-S8990/output/github-contribution-grid-snake.svg">
 </picture>
 
 ---
@@ -158,16 +151,16 @@ Precision aerial farming landing page with interactive WebGL 3D drone viewer, ci
 ## 🎯 Current Focus
 
 ```
-□  Master ML fundamentals (stats, linear algebra, supervised learning)
-□  Build an ML-powered web app (model + API + frontend)
-□  Contribute to open-source
+□  Master ML fundamentals — statistics, linear algebra, supervised learning
+□  Build an ML-powered web app — model training → API → frontend integration
+□  Contribute to open-source projects
 □  Ship 2+ portfolio projects this year
-□  Land an ML / full-stack internship
+□  Land an ML or full-stack internship
 ```
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Connect
 
 <p align="center">
   <a href="mailto:niravsayanja@gmail.com">
@@ -179,6 +172,9 @@ Precision aerial farming landing page with interactive WebGL 3D drone viewer, ci
   <a href="https://linkedin.com/in/niravsayanja">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <a href="https://github.com/N-S8990/N-S8990">
+    <img src="https://img.shields.io/badge/Portfolio-This_Profile-6C47F5?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 <p align="center">
@@ -188,10 +184,15 @@ Precision aerial farming landing page with interactive WebGL 3D drone viewer, ci
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=N-S8990&color=blueviolet&style=flat-square&label=Profile+Views" />
+  <sub>
+    <img src="https://komarev.com/ghpvc/?username=N-S8990&color=6C47F5&style=flat-square&label=Profile+Views" />
+    &nbsp;&nbsp;·&nbsp;&nbsp;
+    <sup>vibe coded with</sup>
+    <a href="https://github.com/anomalyco/opencode">opencode</a> + <a href="https://github.com/NousResearch/hermes-agent">hermes</a>
+  </sub>
 </p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:667eea&height=120&section=footer">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:667eea&height=120&section=footer">
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:6C47F5,100:0d1117&height=120&section=footer">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C47F5,100:f8f9fa&height=120&section=footer">
 </picture>
