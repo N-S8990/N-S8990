@@ -8,13 +8,16 @@
 identity:        ML Learner ∩ Web Developer
 approach:        learn by building, ship fast, iterate
 location:        NIT Rourkela, India
-currently:       ML fundamentals · building full-stack web apps · drone tech
+currently:       ML fundamentals · building full-stack apps · drone tech
 vibe:            code what excites you, then code it better
 goal:            bridge the gap between ML models and production web apps
+tools:           opencode · hermes agent · cursor · claude
 ---
 ```
 
 I'm a self-driven developer exploring the intersection of **machine learning** and **modern web development**. Right now I'm deep in ML fundamentals — linear regression to neural nets — while building full-stack web experiences with React, TypeScript, and Three.js. I learn by shipping real projects, not by tutorials.
+
+All my code is crafted with AI-assisted development using [**opencode**](https://github.com/anomalyco/opencode) and [**hermes agent**](https://github.com/NousResearch/hermes-agent) — I vibe code at lightspeed without sacrificing quality.
 
 ---
 
@@ -116,6 +119,14 @@ Precision aerial farming landing page with interactive WebGL 3D drone viewer, ci
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+### AI-Assisted Development
+[![OpenCode](https://img.shields.io/badge/OpenCode-000000?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNMTIgMkMyIDIgMiAyIDIgMTJzMCAxMCAxMCAxMCAxMCAwIDEwLTEwUzIyIDIgMTIgMnptMCAxOGMtNC40MSAwLTgtMy41OS04IDhzMy41OSA4IDggOCA4LTMuNTkgOC04LTMuNTktOC04LTh6IiBmaWxsPSJ3aGl0ZSIvPjwvc3ZnPg==&logoColor=white&labelColor=000)](https://github.com/anomalyco/opencode)
+[![Hermes Agent](https://img.shields.io/badge/Hermes_Agent-6C47F5?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNMTIgMkwyIDd2MTBsMTAgNSAxMC01VjdMMTIgMnptMCAzbDcuNSAzLjc1TDEyIDEyLjUgNC41IDguNzUgMTIgNXoiIGZpbGw9IndoaXRlIi8+PC9zdmc+&logoColor=white&labelColor=6C47F5)](https://github.com/NousResearch/hermes-agent)
+[![Claude](https://img.shields.io/badge/Claude-FF6B35?style=for-the-badge&logo=anthropic&logoColor=white&labelColor=FF6B35)](https://anthropic.com/claude)
+[![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white&labelColor=000)](https://cursor.sh)
+
+> *Building at the speed of AI — opencode orchestrates, hermes plans, I ship.*
 
 ---
 
