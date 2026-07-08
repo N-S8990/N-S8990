@@ -105,20 +105,13 @@ The official website for NIT Rourkela's premier aeromodelling club. A production
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=N-S8990&show_icons=true&theme=midnight-purple&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=N-S8990&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true" />
+  <img src="https://img.shields.io/github/followers/N-S8990?style=for-the-badge&logo=github&color=6C47F5&labelColor=3B1F9E" />
+  <img src="https://img.shields.io/github/stars/N-S8990?style=for-the-badge&logo=github&color=6C47F5&labelColor=3B1F9E" />
+  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=6C47F5&labelColor=3B1F9E&label=Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FN-S8990" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=N-S8990&theme=midnight-purple&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=N-S8990&theme=midnight-purple&hide_border=true&area=true&title=Nirav's%20Contribution%20Graph" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/N-S8990/N-S8990/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=N-S8990&theme=react-dark&hide_border=true&area=true&title=Nirav's%20Contribution%20Graph" />
 </p>
 
 ---
