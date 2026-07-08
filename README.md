@@ -1,5 +1,5 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:6C47F5&height=220&section=header&text=Nirav%20Sayanja&fontSize=50&fontAlignY=32&desc=ML%20Learner%20%E2%80%A2%20Web%20Developer%20%E2%80%A2%20Builder&descAlignY=52&fontColor=ffffff">
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:6C47F5&height=220&section=header&text=Nirav%20Sayanja&fontSize=50&fontAlignY=32&desc=ML%20Learner%20%E2%80%A2%20Web%20Developer%20%E2%80%A2%20Builder&descAlignY=52&fontColor=ffffff">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f8f9fa,100:6C47F5&height=220&section=header&text=Nirav%20Sayanja&fontSize=50&fontAlignY=32&desc=ML%20Learner%20%E2%80%A2%20Web%20Developer%20%E2%80%A2%20Builder&descAlignY=52&fontColor=1a1a2e">
 </picture>
 
@@ -174,6 +174,6 @@ The official website for NIT Rourkela's premier aeromodelling club. A production
 </p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:6C47F5,100:0d1117&height=120&section=footer">
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:6C47F5,100:1a1a2e&height=120&section=footer">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C47F5,100:f8f9fa&height=120&section=footer">
 </picture>
