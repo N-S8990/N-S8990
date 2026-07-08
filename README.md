@@ -32,9 +32,7 @@ The official website for NIT Rourkela's premier aeromodelling club. A production
 
 **Stack:** React · TypeScript · Three.js · Supabase · Framer Motion · Vite · Firebase
 
-<a href="https://github.com/N-S8990/Udaan-Website">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=N-S8990&repo=Udaan-Website&theme=radical&hide_border=true&bg_color=0d1117">
-</a>
+[![Udaan Website](https://img.shields.io/badge/Udaan_Website-6C47F5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/N-S8990/Udaan-Website)
 
 ---
 
@@ -106,26 +104,14 @@ The official website for NIT Rourkela's premier aeromodelling club. A production
 
 ## 📊 GitHub Activity
 
-<p align="center">
-  <a href="https://github.com/N-S8990">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=N-S8990&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=N-S8990&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d1117" />
-  </a>
-</p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=N-S8990&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=N-S8990&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d1117)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=N-S8990&theme=radical&hide_border=true&background=0d1117" />
-</p>
+![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=N-S8990&theme=radical&hide_border=true&background=0d1117)
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=N-S8990&theme=react-dark&hide_border=true&area=true&bg_color=0d1117" />
-</p>
+![GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=N-S8990&theme=react-dark&hide_border=true&area=true&bg_color=0d1117)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/N-S8990/N-S8990/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/N-S8990/N-S8990/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/N-S8990/N-S8990/output/github-contribution-grid-snake.svg">
-</picture>
+![snake](https://raw.githubusercontent.com/N-S8990/N-S8990/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
