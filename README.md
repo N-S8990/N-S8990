@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:6C47F5&height=220&section=header&text=Nirav%20Sayanja&fontSize=50&fontAlignY=32&desc=ML%20Learner%20%E2%80%A2%20Web%20Developer%20%E2%80%A2%20Vibe%20Coder&descAlignY=52&fontColor=ffffff">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f8f9fa,100:6C47F5&height=220&section=header&text=Nirav%20Sayanja&fontSize=50&fontAlignY=32&desc=ML%20Learner%20%E2%80%A2%20Web%20Developer%20%E2%80%A2%20Vibe%20Coder&descAlignY=52&fontColor=1a1a2e">
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:6C47F5&height=220&section=header&text=Nirav%20Sayanja&fontSize=50&fontAlignY=32&desc=ML%20Learner%20%E2%80%A2%20Web%20Developer%20%E2%80%A2%20Builder&descAlignY=52&fontColor=ffffff">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f8f9fa,100:6C47F5&height=220&section=header&text=Nirav%20Sayanja&fontSize=50&fontAlignY=32&desc=ML%20Learner%20%E2%80%A2%20Web%20Developer%20%E2%80%A2%20Builder&descAlignY=52&fontColor=1a1a2e">
 </picture>
 
 ```yaml
@@ -10,26 +10,12 @@ located_in:        NIT Rourkela, India
 current_mission:   ML fundamentals → production web apps
 building:          full-stack experiences with React, Three.js, Supabase
 tools:             opencode · hermes-agent · cursor · claude
-approach:          learn by shipping, iterate fast, vibe code
+approach:          learn by shipping, iterate fast
 open_for:          ML / full-stack internship opportunities
 ---
 ```
 
-I'm a developer who learns by building. Right now that means splitting my energy between **machine learning fundamentals** (linear regression → neural nets) and **modern full-stack web development** (React, TypeScript, Three.js, Supabase). My goal is to bridge the gap — ship ML-powered web apps end to end, from trained model to deployed product.
-
----
-
-## ⚡ AI-Assisted Development
-
-I build with the most advanced AI coding tools available:
-
-[![OpenCode](https://img.shields.io/badge/OpenCode-000?style=for-the-badge&logo=opencode&logoColor=white&labelColor=000)](https://github.com/anomalyco/opencode)
-‣ 183k ★ — The open source AI coding agent. I use its TUI + CLI for implementation, refactoring, and code review. Provider-agnostic, runs any model.
-
-[![Hermes Agent](https://img.shields.io/badge/Hermes_Agent-6C47F5?style=for-the-badge&logo=hermes&logoColor=white&labelColor=6C47F5)](https://github.com/NousResearch/hermes-agent)
-‣ 210k ★ — Self-improving AI agent by Nous Research. I use it for planning, research, orchestration, and autonomous task execution across my workflow.
-
-> OpenCode handles the code. Hermes handles the strategy. I handle the vision.
+I build things that matter. Right now that means splitting my energy between **machine learning fundamentals** (linear regression → neural nets) and **modern full-stack web development** (React, TypeScript, Three.js, Supabase). My goal is to bridge the gap — ship ML-powered web apps end to end, from trained model to deployed product.
 
 ---
 
@@ -184,12 +170,7 @@ The official website for NIT Rourkela's premier aeromodelling club. A production
 ---
 
 <p align="center">
-  <sub>
-    <img src="https://komarev.com/ghpvc/?username=N-S8990&color=6C47F5&style=flat-square&label=Profile+Views" />
-    &nbsp;&nbsp;·&nbsp;&nbsp;
-    <sup>vibe coded with</sup>
-    <a href="https://github.com/anomalyco/opencode">opencode</a> + <a href="https://github.com/NousResearch/hermes-agent">hermes</a>
-  </sub>
+  <img src="https://komarev.com/ghpvc/?username=N-S8990&color=6C47F5&style=flat-square&label=Profile+Views" />
 </p>
 
 <picture>
