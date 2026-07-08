@@ -1,16 +1,14 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:3B1F9E,100:8B5CF6&height=220&section=header&text=Nirav%20Sayanja&fontSize=50&fontAlignY=32&desc=ML%20Learner%20%E2%80%A2%20Web%20Developer%20%E2%80%A2%20Builder&descAlignY=52&fontColor=ffffff)
 
-```yaml
----
-name:              Nirav Sayanja
-located_in:        NIT Rourkela, India
-current_mission:   ML fundamentals → production web apps
-building:          full-stack experiences with React, Three.js, Supabase
-tools:             opencode · hermes-agent · cursor · claude
-approach:          learn by shipping, iterate fast
-open_for:          ML / full-stack internship opportunities
----
-```
+<div align="center">
+
+🌍 **NIT Rourkela, India** · 🎯 **ML → production web apps** · 🔧 **React, Three.js, Supabase**
+
+🛠️ opencode · hermes-agent · cursor · claude · ⚡ learn by shipping, iterate fast
+
+💼 **Open for:** ML / full-stack internship opportunities
+
+</div>
 
 I build things that matter. Right now that means splitting my energy between **machine learning fundamentals** (linear regression → neural nets) and **modern full-stack web development** (React, TypeScript, Three.js, Supabase). My goal is to bridge the gap — ship ML-powered web apps end to end, from trained model to deployed product.
 
