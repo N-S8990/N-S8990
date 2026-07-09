@@ -74,6 +74,14 @@ I build things that matter. Right now that means splitting my energy between **m
 
 ---
 
+### 📅 Commit Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/N-S8990/N-S8990/main/metrics.plugin.isocalendar.svg" alt="Isometric Commit Calendar" />
+</p>
+
+---
+
 ## 📈 Impact & Metrics
 
 | Area | Metric | Value | Details |
