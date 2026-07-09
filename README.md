@@ -16,73 +16,23 @@ I build things that matter. Right now that means splitting my energy between **m
 
 ## 🚀 Featured Project
 
-<p align="center">
-  <a href="https://github.com/N-S8990/Udaan-Website">
-    <img src="https://img.shields.io/github/stars/N-S8990/Udaan-Website?style=for-the-badge&logo=github&color=6C47F5&labelColor=3B1F9E" alt="Stars" />
-  </a>
-  <a href="https://github.com/N-S8990/Udaan-Website/fork">
-    <img src="https://img.shields.io/github/forks/N-S8990/Udaan-Website?style=for-the-badge&logo=github&color=6C47F5&labelColor=3B1F9E" alt="Forks" />
-  </a>
-  <a href="https://github.com/N-S8990/Udaan-Website">
-    <img src="https://img.shields.io/github/languages/count/N-S8990/Udaan-Website?style=for-the-badge&color=6C47F5&labelColor=3B1F9E" alt="Languages" />
-  </a>
-  <a href="https://github.com/N-S8990/Udaan-Website">
-    <img src="https://img.shields.io/github/languages/top/N-S8990/Udaan-Website?style=for-the-badge&color=6C47F5&labelColor=3B1F9E" alt="Top Language" />
-  </a>
-  <a href="https://github.com/N-S8990/Udaan-Website">
-    <img src="https://img.shields.io/github/repo-size/N-S8990/Udaan-Website?style=for-the-badge&color=6C47F5&labelColor=3B1F9E" alt="Repo Size" />
-  </a>
-</p>
-
 ### ✈️ UDAAN Aeromodelling Club — NIT Rourkela
 
-> The official website for NIT Rourkela's premier aeromodelling club — a production-grade platform for team induction, event registration, and member management, built end-to-end by me.
+The official website for NIT Rourkela's premier aeromodelling club. A production-grade platform for team induction, event registration, and member management.
 
----
+```
+├── 🎨 3D interactive hero powered by Three.js
+├── 📝 Event registration with real-time Supabase backend
+├── 🔐 Member authentication & role-based access control
+├── ⚙️ Admin toggle panel for induction & registration windows
+├── 📊 Excel/CSV export for applicant data management
+├── 📱 Fully responsive across all device sizes
+└── 🚀 Deployed on Vercel with CI/CD
+```
 
-<div align="center">
+**Stack:** React · TypeScript · Three.js · Supabase · Framer Motion · Vite · Firebase
 
-| | Feature | | |
-|---|---|---|---|
-| 🎨 | **3D Interactive Hero** powered by Three.js + R3F | 📝 | **Event Registration** with real-time Supabase backend |
-| 🔐 | **Member Auth & RBAC** with Supabase RLS policies | ⚙️ | **Admin Toggle Panel** for induction & registration windows |
-| 📊 | **Excel/CSV Export** for applicant data management | 📱 | **Fully Responsive** across all device sizes |
-| 🚀 | **Deployed on Vercel** with CI/CD pipeline | 🧩 | **Modular Component Architecture** with TypeScript |
-
-</div>
-
----
-
-### 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/R3F-000000?style=for-the-badge&logo=three.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-</p>
-
----
-
-### 📂 Project Links
-
-<p align="center">
-  <a href="https://github.com/N-S8990/Udaan-Website">
-    <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://github.com/N-S8990/Udaan-Website/blob/main/README.md">
-    <img src="https://img.shields.io/badge/Documentation-6C47F5?style=for-the-badge&logo=readme&logoColor=white" />
-  </a>
-  <a href="https://github.com/N-S8990/Udaan-Website/settings">
-    <img src="https://img.shields.io/badge/Live_Demo-3B1F9E?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-</p>
+[![Udaan Website](https://img.shields.io/badge/Udaan_Website-6C47F5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/N-S8990/Udaan-Website)
 
 ---
 
