@@ -18,7 +18,19 @@ I build things that matter. Right now that means splitting my energy between **m
 
 <p align="center">
   <a href="https://github.com/N-S8990/Udaan-Website">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=N-S8990&repo=Udaan-Website&theme=react&bg_color=0D1117&border_color=6C47F5&title_color=8B5CF6&text_color=FFFFFF&icon_color=8B5CF6&hide_border=true" alt="UDAAN Repo Card" />
+    <img src="https://img.shields.io/github/stars/N-S8990/Udaan-Website?style=for-the-badge&logo=github&color=6C47F5&labelColor=3B1F9E" alt="Stars" />
+  </a>
+  <a href="https://github.com/N-S8990/Udaan-Website/fork">
+    <img src="https://img.shields.io/github/forks/N-S8990/Udaan-Website?style=for-the-badge&logo=github&color=6C47F5&labelColor=3B1F9E" alt="Forks" />
+  </a>
+  <a href="https://github.com/N-S8990/Udaan-Website">
+    <img src="https://img.shields.io/github/languages/count/N-S8990/Udaan-Website?style=for-the-badge&color=6C47F5&labelColor=3B1F9E" alt="Languages" />
+  </a>
+  <a href="https://github.com/N-S8990/Udaan-Website">
+    <img src="https://img.shields.io/github/languages/top/N-S8990/Udaan-Website?style=for-the-badge&color=6C47F5&labelColor=3B1F9E" alt="Top Language" />
+  </a>
+  <a href="https://github.com/N-S8990/Udaan-Website">
+    <img src="https://img.shields.io/github/repo-size/N-S8990/Udaan-Website?style=for-the-badge&color=6C47F5&labelColor=3B1F9E" alt="Repo Size" />
   </a>
 </p>
 
