@@ -92,13 +92,13 @@ The official website for NIT Rourkela's premier aeromodelling club. A production
 ## 🧠 ML Learning Roadmap
 
 ```
-▓▓▓▓▓▓░░░░░░░░░░░░  Fundamentals    [████████░░░░]  40% — stats, linear algebra, supervised
-▓▓▓▓░░░░░░░░░░░░░░  Deep Learning   [████░░░░░░░░]  20% — CNNs, RNNs, PyTorch
-▓▓░░░░░░░░░░░░░░░░  Advanced        [██░░░░░░░░░░]  10% — Transformers, GANs, deployment
+▓▓▓▓▓▓▓▓░░░░░░░░░░  Fundamentals    [██████████░░]  65% — supervised, ensembles, SMOTE, evaluation
+▓▓▓▓▓░░░░░░░░░░░░░  Deep Learning   [██████░░░░░░]  35% — NLP, transformers, ONNX inference
+▓▓▓░░░░░░░░░░░░░░░  Advanced        [███░░░░░░░░░]  15% — real-time pipelines, model optimization
 ```
 
-**Currently:** Statistics, linear algebra, supervised learning algorithms
-**Working toward:** Building and deploying a full ML-powered web application
+**Built:** Classification (LR, RF, XGBoost), SMOTE, NLP sentiment (FinBERT), model serving APIs
+**Next:** Training transformers from scratch, CNNs, deployment at scale
 
 ---
 
