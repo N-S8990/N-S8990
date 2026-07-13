@@ -122,12 +122,14 @@ The official website for NIT Rourkela's premier aeromodelling club. A production
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=N-S8990&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=N-S8990&theme=radical&hide_border=true" />
+  <a href="https://github.com/N-S8990">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/pin/?username=N-S8990&repo=N-S8990&theme=radical&hide_border=true" />
+  </a>
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=N-S8990&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=N-S8990&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=N-S8990&layout=compact&theme=radical&hide_border=true&langs_count=6" />
 </p>
 
 ---
