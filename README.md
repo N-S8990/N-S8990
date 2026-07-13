@@ -119,18 +119,20 @@ The official website for NIT Rourkela's premier aeromodelling club. A production
 
 ---
 
-## 📊 GitHub Stats
+## 🎵 Now Playing
 
 <p align="center">
-  <a href="https://github.com/N-S8990">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/pin/?username=N-S8990&repo=N-S8990&theme=radical&hide_border=true" />
-  </a>
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=N-S8990&theme=radical&hide_border=true" />
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=NiravSayanja&cover_image=true&theme=novatorem" alt="Spotify" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=N-S8990&layout=compact&theme=radical&hide_border=true&langs_count=6" />
-</p>
+<details>
+<summary>⚙️ Setup instructions</summary>
+
+1. Go to [kittinan/spotify-github-profile](https://github.com/kittinan/spotify-github-profile)
+2. Click **Login** and authorize with Spotify
+3. Your card will start showing your listening activity
+
+</details>
 
 ---
 
