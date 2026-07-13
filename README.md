@@ -121,9 +121,7 @@ The official website for NIT Rourkela's premier aeromodelling club. A production
 
 ## 🎵 Now Playing
 
-<p align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=wvz38vh081z2sa9w09dr3a5kc&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&bar_color_cover=true" alt="Spotify" />
-</p>
+<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=wvz38vh081z2sa9w09dr3a5kc&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&bar_color_cover=true" alt="Spotify" />
 
 ---
 
