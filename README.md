@@ -14,7 +14,45 @@ I build things that matter. Right now that means splitting my energy between **m
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
+
+### 🛡️ FraudShield — Credit Card Fraud Detection
+
+End-to-end ML system for detecting fraudulent credit card transactions. Three classifiers (Logistic Regression, Random Forest, XGBoost) with SMOTE for class imbalance, a FastAPI backend, and a live React dashboard.
+
+```
+├── 🤖 Three ML models with threshold-tuned predictions
+├── 📊 SMOTE oversampling for 0.17% fraud class
+├── ⚡ FastAPI REST API with /predict, /predict/batch, /models
+├── 📈 React 19 + Recharts live dashboard
+├── 🔬 MLflow experiment tracking
+└── 📓 Jupyter notebooks for EDA & training
+```
+
+**Stack:** Python · Scikit-learn · XGBoost · FastAPI · React 19 · TypeScript · MLflow
+
+[![FraudShield](https://img.shields.io/badge/FraudShield-FF4444?style=for-the-badge&logo=github&logoColor=white)](https://github.com/N-S8990/fraudshield)
+
+---
+
+### 📡 Sentivo — Market Sentiment & Pulse Engine
+
+Real-time sentiment analysis and signal generation engine. Aggregates Reddit, news, and market data into actionable Fear & Greed scores and trade signals via Apache Kafka.
+
+```
+├── 🧠 FinBERT ONNX for sub-100ms sentiment analysis
+├── 📡 Kafka pipeline: producers → consumers → signals
+├── 📊 Fear & Greed Index (sentiment 50% + momentum 30% + velocity 20%)
+├── 🎯 Contrarian & trend-following signal strategies
+├── 🐍 Python 3.11+ with Poetry
+└── 🐳 Docker Compose for Kafka + Zookeeper
+```
+
+**Stack:** Python · Kafka · FinBERT · Docker · Pydantic · YAML Config
+
+[![Sentivo](https://img.shields.io/badge/Sentivo-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/N-S8990/sentivo)
+
+---
 
 ### ✈️ UDAAN Aeromodelling Club — NIT Rourkela
 
@@ -40,13 +78,14 @@ The official website for NIT Rourkela's premier aeromodelling club. A production
 
 | Area | Metric | Value | Details |
 |---|---|---|---|
+| **ML** | Fraud detection | 97.5% ROC-AUC | XGBoost with SMOTE + threshold tuning |
+| **ML** | Sentiment latency | <100ms | FinBERT ONNX, batch of 32 |
 | **3D** | Render performance | 60 FPS | Three.js hero scene optimized draw calls |
 | **3D** | WebGL draw calls | < 50 | UDAAN interactive scene |
 | **Backend** | Query latency | < 100ms | Supabase real-time queries |
+| **Streaming** | Throughput | 1000+ msg/min | Kafka pipeline across all topics |
 | **UX** | Breakpoints | 5 | Mobile-first responsive design |
 | **Auth** | Role management | Admin / Member | Supabase RLS policies |
-| **ML** | Training progress | Linear → Neural Nets | NumPy, Pandas, PyTorch |
-| **ML** | Next milestone | Deep Learning | CNNs, computer vision |
 
 ---
 
@@ -72,6 +111,7 @@ The official website for NIT Rourkela's premier aeromodelling club. A production
 ![scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logo=xgboost&logoColor=white)
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -86,11 +126,14 @@ The official website for NIT Rourkela's premier aeromodelling club. A production
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 
 ### Backend & DevOps
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
