@@ -16,23 +16,6 @@ I build things that matter. Right now that means splitting my energy between **m
 
 ## 🚀 Featured Projects
 
-### 🛡️ FraudShield — Credit Card Fraud Detection
-
-End-to-end ML system for detecting fraudulent credit card transactions. Three classifiers (Logistic Regression, Random Forest, XGBoost) with SMOTE for class imbalance, a FastAPI backend, and a live React dashboard.
-
-```
-├── 🤖 Three ML models with threshold-tuned predictions
-├── 📊 SMOTE oversampling for 0.17% fraud class
-├── ⚡ FastAPI REST API with /predict, /predict/batch, /models
-├── 📈 React 19 + Recharts live dashboard
-├── 🔬 MLflow experiment tracking
-└── 📓 Jupyter notebooks for EDA & training
-```
-
-**Stack:** Python · Scikit-learn · XGBoost · FastAPI · React 19 · TypeScript · MLflow
-
-[![FraudShield](https://img.shields.io/badge/FraudShield-FF4444?style=for-the-badge&logo=github&logoColor=white)](https://github.com/N-S8990/fraudshield)
-
 ---
 
 ### 📡 Sentivo — Market Sentiment & Pulse Engine
@@ -51,6 +34,25 @@ Real-time sentiment analysis and signal generation engine. Aggregates Reddit, ne
 **Stack:** Python · Kafka · FinBERT · Docker · Pydantic · YAML Config
 
 [![Sentivo](https://img.shields.io/badge/Sentivo-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/N-S8990/sentivo)
+
+---
+
+### 🛡️ FraudShield — Credit Card Fraud Detection
+
+End-to-end ML system for detecting fraudulent credit card transactions. Three classifiers (Logistic Regression, Random Forest, XGBoost) with SMOTE for class imbalance, a FastAPI backend, and a live React dashboard.
+
+```
+├── 🤖 Three ML models with threshold-tuned predictions
+├── 📊 SMOTE oversampling for 0.17% fraud class
+├── ⚡ FastAPI REST API with /predict, /predict/batch, /models
+├── 📈 React 19 + Recharts live dashboard
+├── 🔬 MLflow experiment tracking
+└── 📓 Jupyter notebooks for EDA & training
+```
+
+**Stack:** Python · Scikit-learn · XGBoost · FastAPI · React 19 · TypeScript · MLflow
+
+[![FraudShield](https://img.shields.io/badge/FraudShield-FF4444?style=for-the-badge&logo=github&logoColor=white)](https://github.com/N-S8990/fraudshield)
 
 ---
 
