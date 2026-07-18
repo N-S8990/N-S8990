@@ -18,6 +18,25 @@ I build things that matter. Right now that means splitting my energy between **m
 
 ---
 
+### ⛓️ NexusFlow — Blockchain Payment Continuity
+
+Blockchain-backed payment fallback system that monitors bank servers and automatically routes transactions through liquidity pools when banks go down. Three autonomous Python agents coordinate via Kafka for real-time failover.
+
+```
+├── 🏦 Real-time bank monitoring with 5-second polling
+├── ⚡ Automatic payment routing: bank → blockchain fallback → debt recovery
+├── 🧠 LangGraph-powered credit scoring with multi-factor pipeline
+├── 📜 Solidity smart contracts (PoolFactory, LiquidityPool, LPERC20)
+├── 🔌 React frontend with MetaMask wallet integration
+└── 🐳 Docker Compose for full-stack orchestration
+```
+
+**Stack:** Python · Solidity · Kafka · Redis · LangGraph · React · TypeScript · Truffle
+
+[![Nexusflow](https://img.shields.io/badge/Nexusflow-3B1F9E?style=for-the-badge&logo=ethereum&logoColor=white)](https://github.com/N-S8990/Nexusflow)
+
+---
+
 ### 📡 Sentivo — Market Sentiment & Pulse Engine
 
 Real-time sentiment analysis and signal generation engine. Aggregates Reddit, news, and market data into actionable Fear & Greed scores and trade signals via Apache Kafka.
@@ -80,14 +99,14 @@ The official website for NIT Rourkela's premier aeromodelling club. A production
 
 | Area | Metric | Value | Details |
 |---|---|---|---|
+| **Blockchain** | Failover latency | < 5s | Bank down → pool fallback in real time |
+| **Blockchain** | Smart contracts | 4 | PoolFactory, LiquidityPool, LPERC20, StakingToken |
 | **ML** | Fraud detection | 97.5% ROC-AUC | XGBoost with SMOTE + threshold tuning |
 | **ML** | Sentiment latency | <100ms | FinBERT ONNX, batch of 32 |
 | **3D** | Render performance | 60 FPS | Three.js hero scene optimized draw calls |
-| **3D** | WebGL draw calls | < 50 | UDAAN interactive scene |
-| **Backend** | Query latency | < 100ms | Supabase real-time queries |
 | **Streaming** | Throughput | 1000+ msg/min | Kafka pipeline across all topics |
+| **Backend** | Query latency | < 100ms | Supabase real-time queries |
 | **UX** | Breakpoints | 5 | Mobile-first responsive design |
-| **Auth** | Role management | Admin / Member | Supabase RLS policies |
 
 ---
 
@@ -107,6 +126,7 @@ The official website for NIT Rourkela's premier aeromodelling club. A production
 ## 🧰 Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit__learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -114,6 +134,7 @@ The official website for NIT Rourkela's premier aeromodelling club. A production
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
