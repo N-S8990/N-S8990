@@ -75,7 +75,7 @@ Blockchain-backed payment fallback system with ML-powered credit scoring. Autono
 
 ### ✈️ UDAAN Aeromodelling Club — NIT Rourkela
 
-Official website for NIT Rourkela's aeromodelling club.
+Official website for NIT Rourkela's aeromodelling club. *Vibe-coded.*
 
 **Stack:** React · TypeScript · Three.js · Supabase · Vite
 
