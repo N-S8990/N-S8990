@@ -1,39 +1,20 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:3B1F9E,100:8B5CF6&height=220&section=header&text=Nirav%20Sayanja&fontSize=50&fontAlignY=32&desc=ML%20Learner%20%E2%80%A2%20Web%20Developer%20%E2%80%A2%20Builder&descAlignY=52&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:3B1F9E,100:8B5CF6&height=220&section=header&text=Nirav%20Sayanja&fontSize=50&fontAlignY=32&desc=ML%20Engineer%20%E2%80%A2%20AI%20Builder%20%E2%80%A2%20Full%20Stack&descAlignY=52&fontColor=ffffff)
 
 <div align="center">
 
-🌍 **NIT Rourkela, India** · 🎯 **ML → production web apps** · 🔧 **React, Three.js, Supabase**
+🌍 **NIT Rourkela, India** · 🎯 **ML systems → production** · 🔧 **Python, PyTorch, FastAPI**
 
 🛠️ opencode · hermes-agent · cursor · claude · ⚡ learn by shipping, iterate fast
 
-💼 **Open for:** ML / full-stack internship opportunities
+💼 **Open for:** ML / AI Engineer internship opportunities
 
 </div>
 
-I build things that matter. Right now that means splitting my energy between **machine learning fundamentals** (linear regression → neural nets) and **modern full-stack web development** (React, TypeScript, Three.js, Supabase). My goal is to bridge the gap — ship ML-powered web apps end to end, from trained model to deployed product.
+I build ML systems that work in production. From training models to deploying intelligent applications — I bridge the gap between research and real-world impact. Currently mastering **machine learning fundamentals** and building **end-to-end AI pipelines** with modern tooling.
 
 ---
 
 ## 🚀 Featured Projects
-
----
-
-### ⛓️ NexusFlow — Blockchain Payment Continuity
-
-Blockchain-backed payment fallback system that monitors bank servers and automatically routes transactions through liquidity pools when banks go down. Three autonomous Python agents coordinate via Kafka for real-time failover.
-
-```
-├── 🏦 Real-time bank monitoring with 5-second polling
-├── ⚡ Automatic payment routing: bank → blockchain fallback → debt recovery
-├── 🧠 LangGraph-powered credit scoring with multi-factor pipeline
-├── 📜 Solidity smart contracts (PoolFactory, LiquidityPool, LPERC20)
-├── 🔌 React frontend with MetaMask wallet integration
-└── 🐳 Docker Compose for full-stack orchestration
-```
-
-**Stack:** Python · Solidity · Kafka · Redis · LangGraph · React · TypeScript · Truffle
-
-[![Nexusflow](https://img.shields.io/badge/Nexusflow-3B1F9E?style=for-the-badge&logo=ethereum&logoColor=white)](https://github.com/N-S8990/Nexusflow)
 
 ---
 
@@ -58,38 +39,45 @@ Real-time sentiment analysis and signal generation engine. Aggregates Reddit, ne
 
 ### 🛡️ FraudShield — Credit Card Fraud Detection
 
-End-to-end ML system for detecting fraudulent credit card transactions. Three classifiers (Logistic Regression, Random Forest, XGBoost) with SMOTE for class imbalance, a FastAPI backend, and a live React dashboard.
+End-to-end ML system for detecting fraudulent credit card transactions. Three classifiers (Logistic Regression, Random Forest, XGBoost) with SMOTE for class imbalance, a FastAPI backend, and experiment tracking.
 
 ```
 ├── 🤖 Three ML models with threshold-tuned predictions
 ├── 📊 SMOTE oversampling for 0.17% fraud class
 ├── ⚡ FastAPI REST API with /predict, /predict/batch, /models
-├── 📈 React 19 + Recharts live dashboard
 ├── 🔬 MLflow experiment tracking
 └── 📓 Jupyter notebooks for EDA & training
 ```
 
-**Stack:** Python · Scikit-learn · XGBoost · FastAPI · React 19 · TypeScript · MLflow
+**Stack:** Python · Scikit-learn · XGBoost · FastAPI · MLflow
 
 [![FraudShield](https://img.shields.io/badge/FraudShield-FF4444?style=for-the-badge&logo=github&logoColor=white)](https://github.com/N-S8990/fraudshield)
 
 ---
 
+### ⛓️ NexusFlow — Blockchain Payment Continuity
+
+Blockchain-backed payment fallback system with ML-powered credit scoring. Autonomous Python agents coordinate via Kafka for real-time failover.
+
+```
+├── 🧠 LangGraph-powered credit scoring with multi-factor pipeline
+├── 🏦 Real-time bank monitoring with 5-second polling
+├── ⚡ Automatic payment routing: bank → blockchain fallback
+├── 📜 Solidity smart contracts (PoolFactory, LiquidityPool)
+└── 🐳 Docker Compose for orchestration
+```
+
+**Stack:** Python · LangGraph · Kafka · Redis · Solidity · Docker
+
+[![Nexusflow](https://img.shields.io/badge/Nexusflow-3B1F9E?style=for-the-badge&logo=ethereum&logoColor=white)](https://github.com/N-S8990/Nexusflow)
+
+---
+
 ### ✈️ UDAAN Aeromodelling Club — NIT Rourkela
 
-The official website for NIT Rourkela's premier aeromodelling club. A production-grade platform for team induction, event registration, and member management.
+Official website for NIT Rourkela's aeromodelling club.
 
-```
-├── 🎨 3D interactive hero powered by Three.js
-├── 📝 Event registration with real-time Supabase backend
-├── 🔐 Member authentication & role-based access control
-├── ⚙️ Admin toggle panel for induction & registration windows
-├── 📊 Excel/CSV export for applicant data management
-├── 📱 Fully responsive across all device sizes
-└── 🚀 Deployed on Vercel with CI/CD
-```
-
-**Stack:** React · TypeScript · Three.js · Supabase · Framer Motion · Vite · Firebase
+**Stack:** React · TypeScript · Three.js · Supabase · Vite
 
 [![Udaan Website](https://img.shields.io/badge/Udaan_Website-6C47F5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/N-S8990/Udaan-Website)
 
@@ -99,14 +87,11 @@ The official website for NIT Rourkela's premier aeromodelling club. A production
 
 | Area | Metric | Value | Details |
 |---|---|---|---|
-| **Blockchain** | Failover latency | < 5s | Bank down → pool fallback in real time |
-| **Blockchain** | Smart contracts | 4 | PoolFactory, LiquidityPool, LPERC20, StakingToken |
 | **ML** | Fraud detection | 97.5% ROC-AUC | XGBoost with SMOTE + threshold tuning |
 | **ML** | Sentiment latency | <100ms | FinBERT ONNX, batch of 32 |
-| **3D** | Render performance | 60 FPS | Three.js hero scene optimized draw calls |
 | **Streaming** | Throughput | 1000+ msg/min | Kafka pipeline across all topics |
-| **Backend** | Query latency | < 100ms | Supabase real-time queries |
-| **UX** | Breakpoints | 5 | Mobile-first responsive design |
+| **Blockchain** | Failover latency | < 5s | Bank down → pool fallback in real time |
+| **Backend** | API latency | < 50ms | FastAPI model serving |
 
 ---
 
@@ -119,25 +104,22 @@ The official website for NIT Rourkela's premier aeromodelling club. A production
 ```
 
 **Built:** Classification (LR, RF, XGBoost), SMOTE, NLP sentiment (FinBERT), model serving APIs
-**Next:** Training transformers from scratch, CNNs, deployment at scale
+**Next:** Training transformers from scratch, CNNs, MLOps, deployment at scale
 
 ---
 
 ## 🧰 Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit__learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
@@ -152,10 +134,11 @@ The official website for NIT Rourkela's premier aeromodelling club. A production
 
 ```
 □  Master ML fundamentals — statistics, linear algebra, supervised learning
-□  Build an ML-powered web app — model training → API → frontend integration
-□  Contribute to open-source projects
-□  Ship 2+ portfolio projects this year
-□  Land an ML or full-stack internship
+□  Build production ML pipelines — training → serving → monitoring
+□  Deep dive into transformers and LLMs
+□  Contribute to open-source ML projects
+□  Ship ML-powered applications end to end
+□  Land an ML / AI Engineer internship
 ```
 
 ---
