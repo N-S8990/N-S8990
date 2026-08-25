@@ -8,7 +8,7 @@
         <b>💼 Status:</b> Open for ML / AI Engineer & UI/UX internships!<br>
         <b>🔧 Stack:</b> Python, PyTorch, FastAPI<br>
         <b>⚡ Workflow:</b> Claude Code, Opencode, Hermes-Agent, ChatGPT, Figma<br><br>
-        <i>I build ML systems that work in production. Bridging the gap between research and real-world impact, mastering ML fundamentals, and exploring computational biophysics.</i>
+        <i>I build ML systems that work in production. Bridging the gap between research and real-world impact, mastering ML fundamentals, working on computational biophysics and learning Full-Stack Development.</i>
       </td>
     </tr>
   </table>
