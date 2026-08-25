@@ -3,17 +3,11 @@
 <div align="center">
   <table>
     <tr>
-      <td align="center" valign="middle" width="300">
-        <h3>🚀 Nirav Sayanja</h3>
-        <i>ML Engineer • AI Builder</i><br>
-        📍 NIT Rourkela, India
-      </td>
-      <td width="500">
+      <td>
         <b>🎯 Focus:</b> ML systems → production<br>
         <b>💼 Status:</b> Open for ML / AI Engineer internships!<br>
         <b>🔧 Stack:</b> Python, PyTorch, FastAPI<br>
-        <b>⚡ Workflow:</b> Claude Code, Opencode, Hermes-Agent, ChatGPT,<br>
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Figma, Ghostty<br><br>
+        <b>⚡ Workflow:</b> Claude Code, Opencode, Hermes-Agent, ChatGPT<br><br>
         <i>I build ML systems that work in production. Bridging the gap between research and real-world impact, mastering ML fundamentals, and exploring computational biophysics.</i>
       </td>
     </tr>
