@@ -1,23 +1,24 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:3B1F9E,100:8B5CF6&height=220&section=header&text=Nirav%20Sayanja&fontSize=50&fontAlignY=32&desc=ML%20Engineer%20%E2%80%A2%20AI%20Builder%20%E2%80%A2%20Full%20Stack&descAlignY=52&fontColor=ffffff)
 
-```python
-class MLEngineer:
-    def __init__(self):
-        self.name = "Nirav Sayanja"
-        self.location = "NIT Rourkela, India"
-        self.focus = "ML systems → production"
-        self.toolkit = ["Python", "PyTorch", "FastAPI"]
-        self.workflow = ["opencode", "hermes-agent", "cursor", "claude"]
-        self.status = "Open for ML / AI Engineer internship opportunities!"
-        
-    def get_mission(self):
-        return """
-        I build ML systems that work in production. From training models to 
-        deploying intelligent applications — I bridge the gap between research 
-        and real-world impact. Currently mastering machine learning fundamentals, 
-        exploring computational biophysics, and building end-to-end AI pipelines 
-        with modern tooling.
-        """
+```bash
+nirav@macbook:~$ whoami
+Nirav Sayanja
+
+nirav@macbook:~$ cat status.txt
+Location: NIT Rourkela, India
+Focus: ML systems → production
+Status: Open for ML / AI Engineer internship opportunities!
+
+nirav@macbook:~$ neofetch --tech-stack
+Python, PyTorch, FastAPI
+Workflow: opencode, hermes-agent, cursor, claude
+
+nirav@macbook:~$ cat mission.md
+I build ML systems that work in production. From training models 
+to deploying intelligent applications — I bridge the gap between 
+research and real-world impact. Currently mastering machine 
+learning fundamentals, exploring computational biophysics, and 
+building end-to-end AI pipelines.
 ```
 
 ---
