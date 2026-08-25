@@ -1,25 +1,23 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:3B1F9E,100:8B5CF6&height=220&section=header&text=Nirav%20Sayanja&fontSize=50&fontAlignY=32&desc=ML%20Engineer%20%E2%80%A2%20AI%20Builder%20%E2%80%A2%20Full%20Stack&descAlignY=52&fontColor=ffffff)
 
-```bash
-nirav@macbook:~$ whoami
-Nirav Sayanja
-
-nirav@macbook:~$ cat status.txt
-Location: NIT Rourkela, India
-Focus: ML systems → production
-Status: Open for ML / AI Engineer internship opportunities!
-
-nirav@macbook:~$ neofetch --tech-stack
-Python, PyTorch, FastAPI
-Workflow: opencode, hermes-agent, cursor, claude
-
-nirav@macbook:~$ cat mission.md
-I build ML systems that work in production. From training models 
-to deploying intelligent applications — I bridge the gap between 
-research and real-world impact. Currently mastering machine 
-learning fundamentals, exploring computational biophysics, and 
-building end-to-end AI pipelines.
-```
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="300">
+        <h2>🚀 Nirav Sayanja</h2>
+        <p><i>ML Engineer • AI Builder</i></p>
+        <p>📍 NIT Rourkela, India</p>
+      </td>
+      <td width="500">
+        <b>🎯 Focus:</b> ML systems → production<br>
+        <b>💼 Status:</b> Open for ML / AI Engineer internships!<br>
+        <b>🔧 Stack:</b> Python, PyTorch, FastAPI<br>
+        <b>⚡ Workflow:</b> Claude Code, Opencode, Hermes-Agent, ChatGPT, Figma, Ghostty<br><br>
+        <i>I build ML systems that work in production. Bridging the gap between research and real-world impact, mastering ML fundamentals, and exploring computational biophysics.</i>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
