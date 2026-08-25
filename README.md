@@ -109,8 +109,8 @@ building end-to-end AI pipelines.
   <a href="https://linkedin.com/in/niravsayanja">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/N-S8990/N-S8990">
-    <img src="https://img.shields.io/badge/Portfolio-This_Profile-6C47F5?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://nirav-sayanja-portfolio.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-Website-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
 
