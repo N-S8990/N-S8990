@@ -10,76 +10,19 @@
 
 </div>
 
-I build ML systems that work in production. From training models to deploying intelligent applications — I bridge the gap between research and real-world impact. Currently mastering **machine learning fundamentals** and building **end-to-end AI pipelines** with modern tooling.
+I build ML systems that work in production. From training models to deploying intelligent applications — I bridge the gap between research and real-world impact. Currently mastering **machine learning fundamentals**, exploring **computational biophysics**, and building **end-to-end AI pipelines** with modern tooling.
 
 ---
 
 ## 🚀 Featured Projects
 
----
-
-### 📡 Sentivo — Market Sentiment & Pulse Engine
-
-Real-time sentiment analysis and signal generation engine. Aggregates Reddit, news, and market data into actionable Fear & Greed scores and trade signals via Apache Kafka.
-
-```
-├── 🧠 FinBERT ONNX for sub-100ms sentiment analysis
-├── 📡 Kafka pipeline: producers → consumers → signals
-├── 📊 Fear & Greed Index (sentiment 50% + momentum 30% + velocity 20%)
-├── 🎯 Contrarian & trend-following signal strategies
-├── 🐍 Python 3.11+ with Poetry
-└── 🐳 Docker Compose for Kafka + Zookeeper
-```
-
-**Stack:** Python · Kafka · FinBERT · Docker · Pydantic · YAML Config
-
-[![Sentivo](https://img.shields.io/badge/Sentivo-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/N-S8990/sentivo)
-
----
-
-### 🛡️ FraudShield — Credit Card Fraud Detection
-
-End-to-end ML system for detecting fraudulent credit card transactions. Three classifiers (Logistic Regression, Random Forest, XGBoost) with SMOTE for class imbalance, a FastAPI backend, and experiment tracking.
-
-```
-├── 🤖 Three ML models with threshold-tuned predictions
-├── 📊 SMOTE oversampling for 0.17% fraud class
-├── ⚡ FastAPI REST API with /predict, /predict/batch, /models
-├── 🔬 MLflow experiment tracking
-└── 📓 Jupyter notebooks for EDA & training
-```
-
-**Stack:** Python · Scikit-learn · XGBoost · FastAPI · MLflow
-
-[![FraudShield](https://img.shields.io/badge/FraudShield-FF4444?style=for-the-badge&logo=github&logoColor=white)](https://github.com/N-S8990/fraudshield)
-
----
-
-### ⛓️ NexusFlow — Blockchain Payment Continuity
-
-Blockchain-backed payment fallback system with ML-powered credit scoring. Autonomous Python agents coordinate via Kafka for real-time failover.
-
-```
-├── 🧠 LangGraph-powered credit scoring with multi-factor pipeline
-├── 🏦 Real-time bank monitoring with 5-second polling
-├── ⚡ Automatic payment routing: bank → blockchain fallback
-├── 📜 Solidity smart contracts (PoolFactory, LiquidityPool)
-└── 🐳 Docker Compose for orchestration
-```
-
-**Stack:** Python · LangGraph · Kafka · Redis · Solidity · Docker
-
-[![Nexusflow](https://img.shields.io/badge/Nexusflow-3B1F9E?style=for-the-badge&logo=ethereum&logoColor=white)](https://github.com/N-S8990/Nexusflow)
-
----
-
-### ✈️ UDAAN Aeromodelling Club — NIT Rourkela
-
-Official website for NIT Rourkela's aeromodelling club. *Vibe-coded.*
-
-**Stack:** React · TypeScript · Three.js · Supabase · Vite
-
-[![Udaan Website](https://img.shields.io/badge/Udaan_Website-6C47F5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/N-S8990/Udaan-Website)
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **[MD-ContactML](https://github.com/N-S8990/MD-ContactML)** | Computational biophysics ML pipeline for viral complexes | `Python` `OpenMM` `Scikit-Learn` |
+| **[Sentivo](https://github.com/N-S8990/sentivo)** | Real-time sentiment analysis engine (<100ms latency) | `PyTorch` `FastAPI` `ONNX` |
+| **[Fraudshield](https://github.com/N-S8990/fraudshield)** | Financial fraud detection with 97.5% ROC-AUC | `XGBoost` `Pandas` |
+| **[Nexusflow](https://github.com/N-S8990/Nexusflow)** | Distributed streaming data architecture | `Kafka` `Docker` |
+| **[Udaan-Website](https://github.com/N-S8990/Udaan-Website)** | Dynamic event and portfolio website | `React` `TypeScript` |
 
 ---
 
@@ -87,6 +30,7 @@ Official website for NIT Rourkela's aeromodelling club. *Vibe-coded.*
 
 | Area | Metric | Value | Details |
 |---|---|---|---|
+| **Bio-ML** | Simulation processing | 10M+ steps | Random Forest pruning of highly correlated MD trajectories |
 | **ML** | Fraud detection | 97.5% ROC-AUC | XGBoost with SMOTE + threshold tuning |
 | **ML** | Sentiment latency | <100ms | FinBERT ONNX, batch of 32 |
 | **Streaming** | Throughput | 1000+ msg/min | Kafka pipeline across all topics |
@@ -97,13 +41,13 @@ Official website for NIT Rourkela's aeromodelling club. *Vibe-coded.*
 
 ## 🧠 ML Learning Roadmap
 
-```
-▓▓▓▓▓▓▓▓░░░░░░░░░░  Fundamentals    [██████████░░]  65% — supervised, ensembles, SMOTE, evaluation
+```text
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░  Fundamentals    [██████████████░░]  90% — supervised, ensembles, SMOTE, evaluation
 ▓▓▓▓▓░░░░░░░░░░░░░  Deep Learning   [██████░░░░░░]  35% — NLP, transformers, ONNX inference
-▓▓▓░░░░░░░░░░░░░░░  Advanced        [███░░░░░░░░░]  15% — real-time pipelines, model optimization
+▓▓▓░░░░░░░░░░░░░░░  Advanced        [███░░░░░░░░░]  15% — real-time pipelines, model optimization, biophysics
 ```
 
-**Built:** Classification (LR, RF, XGBoost), SMOTE, NLP sentiment (FinBERT), model serving APIs
+**Built:** Classification (LR, RF, XGBoost), SMOTE, NLP sentiment (FinBERT), Model serving APIs, MD Simulation pipelines  
 **Next:** Training transformers from scratch, CNNs, MLOps, deployment at scale
 
 ---
@@ -133,7 +77,7 @@ Official website for NIT Rourkela's aeromodelling club. *Vibe-coded.*
 ## 🎯 Current Focus
 
 ```
-□  Master ML fundamentals — statistics, linear algebra, supervised learning
+□  Master Deep Learning & Neural Networks
 □  Build production ML pipelines — training → serving → monitoring
 □  Deep dive into transformers and LLMs
 □  Contribute to open-source ML projects
