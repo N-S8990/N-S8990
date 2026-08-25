@@ -4,10 +4,10 @@
   <table>
     <tr>
       <td>
-        <b>🎯 Focus:</b> ML systems → production<br>
-        <b>💼 Status:</b> Open for ML / AI Engineer internships!<br>
+        <b>🎯 Focus:</b> ML systems & Computational Bio-Physics → Production<br>
+        <b>💼 Status:</b> Open for ML / AI Engineer & UI/UX internships!<br>
         <b>🔧 Stack:</b> Python, PyTorch, FastAPI<br>
-        <b>⚡ Workflow:</b> Claude Code, Opencode, Hermes-Agent, ChatGPT<br><br>
+        <b>⚡ Workflow:</b> Claude Code, Opencode, Hermes-Agent, ChatGPT, Figma<br><br>
         <i>I build ML systems that work in production. Bridging the gap between research and real-world impact, mastering ML fundamentals, and exploring computational biophysics.</i>
       </td>
     </tr>
