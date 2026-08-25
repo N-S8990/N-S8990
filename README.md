@@ -87,12 +87,11 @@ building end-to-end AI pipelines.
 ## 🎯 Current Focus
 
 ```
-□  Master Deep Learning & Neural Networks
-□  Build production ML pipelines — training → serving → monitoring
-□  Deep dive into transformers and LLMs
-□  Contribute to open-source ML projects
-□  Ship ML-powered applications end to end
-□  Land an ML / AI Engineer internship
+□  Scaling ML models for high-throughput, low-latency inference
+□  Building robust MLOps pipelines (CI/CD for Machine Learning)
+□  Applying Machine Learning to computational biophysics and MD simulations
+□  Deploying distributed stream processing systems with Kafka
+□  Landing an ML / AI Engineer internship
 ```
 
 ---
