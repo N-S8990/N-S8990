@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:3B1F9E,100:8B5CF6&height=220&section=header&text=Nirav%20Sayanja&fontSize=50&fontAlignY=32&desc=ML%20Engineer%20%E2%80%A2%20AI%20Builder%20%E2%80%A2%20Full%20Stack&descAlignY=52&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:3B1F9E,100:8B5CF6&height=220&section=header&text=Nirav%20Sayanja&fontSize=50&fontAlignY=32&desc=ML%20Engineer%20%E2%80%A2%20UI/%20UX%20%E2%80%A2%20Full%20Stack&descAlignY=52&fontColor=ffffff)
 
 <div align="center">
   <table>
