@@ -18,6 +18,7 @@ I build ML systems that work in production. From training models to deploying in
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
+| **[Portfolio Website](https://nirav-sayanja-portfolio.vercel.app)** | Personal portfolio showcasing ML and software engineering projects | `React` `Next.js` |
 | **[MD-ContactML](https://github.com/N-S8990/MD-ContactML)** | Computational biophysics ML pipeline for viral complexes | `Python` `OpenMM` `Scikit-Learn` |
 | **[Sentivo](https://github.com/N-S8990/sentivo)** | Real-time sentiment analysis engine (<100ms latency) | `PyTorch` `FastAPI` `ONNX` |
 | **[Fraudshield](https://github.com/N-S8990/fraudshield)** | Financial fraud detection with 97.5% ROC-AUC | `XGBoost` `Pandas` |
